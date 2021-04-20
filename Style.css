@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-family:colfax;
+    font-size: 80;
+}
+h3 {
+    font-family: colfax;
+    font-size: 40;
+}
+
+.iframe {
+    width: 200;
+    height: 400;
+}
+
+ul {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+}
+
+#sps {
+    z-index: 9;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+}
+#contact {
+    z-index: 9;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+}
+
+p {
+    font-family: arial;
+    font-size: 90;
+}
+.Nb {
+    position: sticky;
+    z-index: 8000;
+}
+img {
+    text-align: center;
+}
+
